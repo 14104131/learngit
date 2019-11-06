@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick and simple.
 孙东良加油
 孙东良冲冲冲
+修改bug
